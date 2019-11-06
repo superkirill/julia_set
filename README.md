@@ -1,4 +1,4 @@
-# julia_set
+# Julia set generator
 
 This is an implementation of the interactive Julia set generator written in Python. The implementation supports changes of the size of the complex plane that is being observed. The main part of the computations is done on the GPU, using CUDA 9.0. 
 
